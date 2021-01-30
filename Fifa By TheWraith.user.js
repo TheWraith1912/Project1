@@ -1,10 +1,10 @@
 // ==UserScript==
 // @require      http://code.jquery.com/jquery-3.5.1.min.js
-// @name         Fifa By Kappers
+// @name         Fifa By TheWraith
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       Kappers
+// @author       TheWraith
 // @match       https://www.ea.com/fifa/ultimate-team/web-app/
 // @grant        none
 
@@ -118,12 +118,5 @@
             }, 500);
         });
     }
-
-
-
-
-
-
-
 
 })();
